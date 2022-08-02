@@ -1,4 +1,4 @@
-<img width="100%" src="https://user-images.githubusercontent.com/99570200/182359487-1de8801f-4b57-41a2-8afe-2af8738bd7a1.gif" alt="" />
+<img width="100%" src="https://user-images.githubusercontent.com/99570200/182405723-8d347f6b-9fd5-4c0d-a63b-ed0fb00b94ea.gif" alt="banner" />
 
 ##  Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vrushabh-veer) 
