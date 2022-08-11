@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/99570200/183278549-56776228-3372-4f66-ac43-96786cb0a5cd.gif" alt="banner" />
 
-[![](https://visitcount.itsvg.in/api?id=VrushabhVeer&icon=2&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VrushabhVeer&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vrushabh-veer/) 
