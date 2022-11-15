@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/99570200/199416450-f54e7b36-dcf6-4697-82aa-a9d8a50320c9.png" alt="banner" />
 
 ## About Me
-## Self-motivated developer and Creative person who is interested in building user-friendly products. and who focuses on writing clean, elegant, and efficient code.<br>
+### Self-motivated developer and Creative person who is interested in building user-friendly products. and who focuses on writing clean, elegant, and efficient code.<br>
 
 [![](https://visitcount.itsvg.in/api?id=VrushabhVeer&icon=2&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials
